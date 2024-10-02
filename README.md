@@ -1,5 +1,5 @@
 # Hola 💬
-![logo1]([https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b](https://www.freecodecamp.org/news/content/images/size/w2000/2021/10/golang.png)
+![logo1]([https://github.com/Dreyuix/Dreyuix/assets/65123134/b610ada7-e668-44b9-80db-f3d030bb970b](https://www.freecodecamp.org/news/content/images/size/w2000/2021/10/golang.png])
 
 Soy un ingeniero de software apasionado por hacer que el código abierto sea más sencillo y accesible, crear tecnología en IoT para elevar a las personas y construir comunidades.
 
